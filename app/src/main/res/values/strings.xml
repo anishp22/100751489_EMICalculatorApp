@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">100751489_Assignment1</string>
+    <string name="loanHint">Enter Loan Amount</string>
+    <string name="interestRateHint">Enter Interest Rate</string>
+    <string name="amortizationHint">Enter Amortization Period</string>
+    <string name="findEMI">Calculate EMI</string>
+    <string name="EMIAppTitle">EMI Calculator</string>
+    <string name="TDEMILink"><a href="https://apps.td.com/mortgage-payment-calculator/">For more information on EMI Calculations, click here.</a></string>
+</resources>
